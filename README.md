@@ -2,6 +2,8 @@
 
 A fully 3D-printed animatronic eye system with computer vision tracking, designed for educational robotics. No screws, glue, or fasteners required - everything snaps together!
 
+**Repository:** [github.com/artyviz/Design-and-Control-of-an-AI-Enhanced-Zero-Fastener-Animatronic-Eye-Mechanism](https://github.com/artyviz/Design-and-Control-of-an-AI-Enhanced-Zero-Fastener-Animatronic-Eye-Mechanism)
+
 ![SnapEyeMech Assembly](images/assembly.jpg)
 
 ## Overview
@@ -257,7 +259,7 @@ If you use this project in your research or education, please cite:
   title = {SnapEyeMech: Zero-Fastener Animatronic Eye Mechanism},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/farhan-umar/SnapEyeMech}
+  url = {https://github.com/artyviz/Design-and-Control-of-an-AI-Enhanced-Zero-Fastener-Animatronic-Eye-Mechanism}
 }
 ```
 
@@ -268,6 +270,10 @@ If you use this project in your research or education, please cite:
 - **Mohit Kumar**: mohit.2226ec1019@kiet.edu
 
 For questions, suggestions, or collaboration opportunities, please open an issue or contact us via email.
+
+## Gallery
+
+---
 
 **Status:** Active Development | **Version:** 1.0 | **Last Updated:** November 2025
 
